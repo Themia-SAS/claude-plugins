@@ -1,0 +1,25 @@
+{
+  "name": "themia",
+  "owner": {
+    "name": "Themia",
+    "url": "https://github.com/Themia-SAS"
+  },
+  "plugins": [
+    {
+      "name": "jurimetria-lab",
+      "source": {
+        "source": "github",
+        "repo": "Themia-SAS/jurimetria-lab"
+      },
+      "description": "Operator-mode skills + agents for the Themia jurimetria lab. Hypothesis-driven experiments, per-decision reviews, cohort-scale resolution loops, and rapport synthesis — all chunk-cited, French-audited, MCP-bound."
+    },
+    {
+      "name": "croissance-lab",
+      "source": {
+        "source": "github",
+        "repo": "Themia-SAS/croissance-lab"
+      },
+      "description": "Themia's growth lab — brand-correct French copy, webinar production, and (roadmap) LinkedIn / outreach / a campaign agent. Sibling to jurimetria-lab: jurimetria-lab produces the verified truth, croissance-lab distributes it. Anchored on the neutral-lab positioning + live corpus taxonomy."
+    }
+  ]
+}
