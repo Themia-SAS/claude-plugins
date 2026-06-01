@@ -20,6 +20,14 @@
         "repo": "Themia-SAS/croissance-lab"
       },
       "description": "Themia's growth lab — Themia-native skills (positioning, discovery, channels, French copy, webinars) + a croissance-router entry point + 11 founder-playbook frameworks (offers, leads, pricing, SPIN, influence, blue ocean, chasm, four steps, lean startup, made-to-stick, storybrand) as reference depth. Sibling to jurimetria-lab: jurimetria-lab produces the verified truth, croissance-lab distributes it."
+    },
+    {
+      "name": "leadership-lab",
+      "source": {
+        "source": "github",
+        "repo": "Themia-SAS/leadership-lab"
+      },
+      "description": "Themia's leadership lab — how the founder/leader runs Themia. People side: no-rules-rules ports the Freedom & Responsibility model (No Rules Rules, Hastings/Meyer) tuned to Themia — the jazz/symphony fence over Themia's functions, French-candor adaptation, and honest caveats. Money side: the /runway command produces a cashflow / renewals / TVA / trough snapshot. Sibling to croissance-lab (distribution) and jurimetria-lab (verified truth)."
     }
   ]
 }
