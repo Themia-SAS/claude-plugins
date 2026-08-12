@@ -9,7 +9,7 @@
       "name": "jurimetria-lab",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "url": "git@github.com:Themia-SAS/gerard.git",
         "path": "plugins/jurimetria-lab",
         "ref": "main"
       },
@@ -19,7 +19,7 @@
       "name": "croissance-lab",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "url": "git@github.com:Themia-SAS/gerard.git",
         "path": "plugins/croissance-lab",
         "ref": "main"
       },
@@ -29,7 +29,7 @@
       "name": "leadership-lab",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "url": "git@github.com:Themia-SAS/gerard.git",
         "path": "plugins/leadership-lab",
         "ref": "main"
       },
