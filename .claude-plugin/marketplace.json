@@ -8,24 +8,30 @@
     {
       "name": "jurimetria-lab",
       "source": {
-        "source": "github",
-        "repo": "Themia-SAS/jurimetria-lab"
+        "source": "git-subdir",
+        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "path": "plugins/jurimetria-lab",
+        "ref": "main"
       },
       "description": "Operator-mode skills + agents for the Themia jurimetria lab. Hypothesis-driven experiments, per-decision reviews, cohort-scale resolution loops, and rapport synthesis — all chunk-cited, French-audited, MCP-bound."
     },
     {
       "name": "croissance-lab",
       "source": {
-        "source": "github",
-        "repo": "Themia-SAS/croissance-lab"
+        "source": "git-subdir",
+        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "path": "plugins/croissance-lab",
+        "ref": "main"
       },
       "description": "Themia's growth lab — Themia-native skills (positioning, discovery, channels, French copy, webinars) + a croissance-router entry point + 11 founder-playbook frameworks (offers, leads, pricing, SPIN, influence, blue ocean, chasm, four steps, lean startup, made-to-stick, storybrand) as reference depth. Sibling to jurimetria-lab: jurimetria-lab produces the verified truth, croissance-lab distributes it."
     },
     {
       "name": "leadership-lab",
       "source": {
-        "source": "github",
-        "repo": "Themia-SAS/leadership-lab"
+        "source": "git-subdir",
+        "url": "https://github.com/Themia-SAS/themia-control.git",
+        "path": "plugins/leadership-lab",
+        "ref": "main"
       },
       "description": "Themia's leadership lab — how the founder/leader runs Themia. People side: no-rules-rules ports the Freedom & Responsibility model (No Rules Rules, Hastings/Meyer) tuned to Themia — the jazz/symphony fence over Themia's functions, French-candor adaptation, and honest caveats. Money side: the /runway command produces a cashflow / renewals / TVA / trough snapshot. Sibling to croissance-lab (distribution) and jurimetria-lab (verified truth)."
     }
