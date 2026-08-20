@@ -34,6 +34,16 @@
         "ref": "main"
       },
       "description": "Themia's leadership lab — how the founder/leader runs Themia. Operational capture: feature-request, bug-report, analytics-report and decision file Themia work straight into Linear (principe 7.1 révisé); decision keeps the sealed doc in the repo where secretariat can verify it and publishes a Linear pointer carrying the docHash. People side: no-rules-rules ports the Freedom & Responsibility model tuned to Themia. Corporate side: themia-pv drafts procès-verbaux of the décisions collectives des associés. Money side: /runway gives a cashflow / renewals / TVA / trough snapshot."
+    },
+    {
+      "name": "engineering-lab",
+      "source": {
+        "source": "git-subdir",
+        "url": "git@github.com:Themia-SAS/gerard.git",
+        "path": "plugins/engineering-lab",
+        "ref": "main"
+      },
+      "description": "How Themia ships — the org-level home for engineering assets that were being copy-pasted into minerva and leggia and diverging there. The shaping method (Linear-aware, repo-framed), ship-a-matiere for opening a legal domain, playwright-e2e for the real packages/e2e harness, leggia-python for the Poetry/ruff/mypy toolchain, plus one shaper and one engineer agent instead of one per repo. engineering-router dispatches across the ~40 skills the practice uses. Owns little on purpose: universal methods (ddd, behavioral-design) and third-party plugins are called, never vendored."
     }
   ]
 }
