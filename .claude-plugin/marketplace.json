@@ -33,7 +33,7 @@
         "path": "plugins/leadership-lab",
         "ref": "main"
       },
-      "description": "Themia's leadership lab — how the founder/leader runs Themia. People side: no-rules-rules ports the Freedom & Responsibility model (No Rules Rules, Hastings/Meyer) tuned to Themia — the jazz/symphony fence over Themia's functions, French-candor adaptation, and honest caveats. Money side: the /runway command produces a cashflow / renewals / TVA / trough snapshot. Sibling to croissance-lab (distribution) and jurimetria-lab (verified truth)."
+      "description": "Themia's leadership lab — how the founder/leader runs Themia. Operational capture: feature-request, bug-report, analytics-report and decision file Themia work straight into Linear (principe 7.1 révisé); decision keeps the sealed doc in the repo where secretariat can verify it and publishes a Linear pointer carrying the docHash. People side: no-rules-rules ports the Freedom & Responsibility model tuned to Themia. Corporate side: themia-pv drafts procès-verbaux of the décisions collectives des associés. Money side: /runway gives a cashflow / renewals / TVA / trough snapshot."
     }
   ]
 }
