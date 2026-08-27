@@ -13,7 +13,7 @@
         "path": "plugins/jurimetria-lab",
         "ref": "main"
       },
-      "description": "Operator-mode skills + agents for the Themia jurimetria lab. Hypothesis-driven experiments, per-decision reviews, cohort-scale resolution loops, and rapport synthesis — all chunk-cited, French-audited, MCP-bound."
+      "description": "Jurimetric research on French legal-decision corpora. Experiments, per-decision reviews, cohort resolution, rapport synthesis, and new-module launches — chunk-cited, French-audited, bound to the Themia and Veriguard MCP servers."
     },
     {
       "name": "croissance-lab",
@@ -23,7 +23,7 @@
         "path": "plugins/croissance-lab",
         "ref": "main"
       },
-      "description": "Themia's growth lab — Themia-native skills (positioning, discovery, channels, French copy, webinars) + a croissance-router entry point + 11 founder-playbook frameworks (offers, leads, pricing, SPIN, influence, blue ocean, chasm, four steps, lean startup, made-to-stick, storybrand) as reference depth. Sibling to jurimetria-lab: jurimetria-lab produces the verified truth, croissance-lab distributes it."
+      "description": "Growth and distribution for Themia. Positioning, discovery, channels, French legal copy, webinar production, plus eleven founder-playbook frameworks. Where jurimetria-lab produces the verified truth, croissance-lab distributes it."
     },
     {
       "name": "leadership-lab",
@@ -33,7 +33,7 @@
         "path": "plugins/leadership-lab",
         "ref": "main"
       },
-      "description": "Themia's leadership lab — how the founder/leader runs Themia. Operational capture: feature-request, bug-report, analytics-report and decision file Themia work straight into Linear (principe 7.1 révisé); decision keeps the sealed doc in the repo where secretariat can verify it and publishes a Linear pointer carrying the docHash. People side: no-rules-rules ports the Freedom & Responsibility model tuned to Themia. Corporate side: themia-pv drafts procès-verbaux of the décisions collectives des associés. Money side: /runway gives a cashflow / renewals / TVA / trough snapshot."
+      "description": "How Themia is run. Operational capture (bugs, ideas, decisions → Linear), day-open agenda, runway/cashflow snapshots, Freedom & Responsibility culture model, and procès-verbaux for décisions collectives des associés."
     },
     {
       "name": "engineering-lab",
@@ -43,7 +43,7 @@
         "path": "plugins/engineering-lab",
         "ref": "main"
       },
-      "description": "How Themia ships — the org-level home for engineering assets that were being copy-pasted into minerva and leggia and diverging there. The shaping method (Linear-aware, repo-framed), ship-a-matiere for opening a legal domain, playwright-e2e for the real packages/e2e harness, leggia-python for the Poetry/ruff/mypy toolchain, plus one shaper and one engineer agent instead of one per repo. engineering-router dispatches across the ~40 skills the practice uses. Owns little on purpose: universal methods (ddd, behavioral-design) and third-party plugins are called, never vendored."
+      "description": "How Themia ships. Shaping, PR review, develop-to-main promotion, Playwright E2E, leggia Python toolchain, and the engineering-router that dispatches across the practice's skills. Owns methods, calls universal skills — never vendors them."
     }
   ]
 }
